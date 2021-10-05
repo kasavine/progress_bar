@@ -10,9 +10,3 @@ Program is choosing each number randomly from that list.
 
 EX: 20 1 1 1 3 5 3 1 1 3 2 2 2
 [image]
-
-Compilation
-javac ProgressBar.java
-
-Run 
-java ProgressBar
